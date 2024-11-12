@@ -45,7 +45,11 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyaa21&show_icons=true&theme=onedark&locale=en&layout=compact" alt="rasyaa21" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasyaa21&theme=dark" alt="rasyaa21" /></p>
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 20px;">
+  <div style="flex: 1;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyaa21&show_icons=true&theme=onedark&locale=en&layout=compact" alt="rasyaa21" />
+  </div>
+  <div style="flex: 1;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasyaa21&theme=dark" alt="rasyaa21" />
+  </div>
 </div>
