@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naufal Qathafa Rasya Hidayat</h1>
 <h3 align="center">About me :</h3>
 
-- 🌱 I’m currently learning **Mobile Fullstack**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **naufalrasya21907@gmail.com**
 
