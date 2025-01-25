@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I’m currently studying on SMK Telkom Purwokerto<br>👯 I’m looking to collaborate on software development project<br>🌱 I’m currently learning backend development & machine learning<br>💬 Ask me about anything<br>🎸 Die hard goddess rockstar
+🏫 I’m currently studying on SMK Telkom Purwokerto<br>👯 I am currently seeking a frontend web developer to collaborate as a partner in a project<br>🌱 I’m currently learning backend development & machine learning<br>💬 Ask me about anything<br>🎸 Die hard goddess rockstar
 
 
 ## 🌐 Socials:
